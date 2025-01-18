@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hierarchical-table/static/css/main.c154fb58.css",
+    "main.js": "/hierarchical-table/static/js/main.850af2dc.js",
+    "static/js/488.c1274793.chunk.js": "/hierarchical-table/static/js/488.c1274793.chunk.js",
+    "index.html": "/hierarchical-table/index.html",
+    "main.c154fb58.css.map": "/hierarchical-table/static/css/main.c154fb58.css.map",
+    "main.850af2dc.js.map": "/hierarchical-table/static/js/main.850af2dc.js.map",
+    "488.c1274793.chunk.js.map": "/hierarchical-table/static/js/488.c1274793.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c154fb58.css",
+    "static/js/main.850af2dc.js"
+  ]
+}
